@@ -13,20 +13,20 @@ import com.example.affirmations.model.Affirmation
 /**
  * Adapter for the [RecyclerView] in [MainActivity]. Displays [Affirmation] data object.
  */
-class ItemAdapter(private val context: Context, private val dataset: List<Affirmation>):
+class ItemAdapter(private val context: Context, private val dataset: List<Affirmation>) :
     RecyclerView.Adapter<ItemAdapter.ItemViewHolder>() {
 
-    class ItemViewHolder(view: View): RecyclerView.ViewHolder(view) {
+    class ItemViewHolder(view: View) : RecyclerView.ViewHolder(view) {
         val textview: TextView = view.findViewById(R.id.item_title)
         val imageview: ImageView = view.findViewById(R.id.item_image)
         // R.id.name 은 실제 스트링 값을 가져오는게 아니라 아이디를 Int 로 return 한다.
     }
 
     /** Create new views (invoked by the layout manager)
-    * 새로운 뷰 홀더가 필요할 때 레이아웃 매니저에 의해서 호출됨. 뷰홀더는 리사이클러 뷰의 아이템 한 개를 담을 통이라고 보면된다
-    * parent : 뷰홀더가 child로 들어갈 뷰그룹(레이아웃) -> 여기서는 리사이블러뷰겠지
-    * viewType : parent 안에 어떤 뷰타입으로 들어갈건지. 나는 한가지 아이템만 넣을거니 별로 신경안써도 된다.
-    */
+     * 새로운 뷰 홀더가 필요할 때 레이아웃 매니저에 의해서 호출됨. 뷰홀더는 리사이클러 뷰의 아이템 한 개를 담을 통이라고 보면된다
+     * parent : 뷰홀더가 child로 들어갈 뷰그룹(레이아웃) -> 여기서는 리사이블러뷰겠지
+     * viewType : parent 안에 어떤 뷰타입으로 들어갈건지. 나는 한가지 아이템만 넣을거니 별로 신경안써도 된다.
+     */
     override fun onCreateViewHolder(parent: ViewGroup, viewType: Int): ItemViewHolder {
         val adapterLayout = LayoutInflater.from(parent.context)
             .inflate(R.layout.list_item, parent, false)
