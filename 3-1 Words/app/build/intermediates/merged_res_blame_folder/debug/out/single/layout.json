@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WordsAppbyMe/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_detail.xml",
+        "source": "/Users/user/AndroidStudioProjects/WordsAppbyMe/app/src/main/res/layout/activity_detail.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WordsAppbyMe/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/activity_main.xml",
+        "source": "/Users/user/AndroidStudioProjects/WordsAppbyMe/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/WordsAppbyMe/app/build/intermediates/incremental/mergeDebugResources/stripped.dir/layout/item_view.xml",
+        "source": "/Users/user/AndroidStudioProjects/WordsAppbyMe/app/src/main/res/layout/item_view.xml"
+    }
+]

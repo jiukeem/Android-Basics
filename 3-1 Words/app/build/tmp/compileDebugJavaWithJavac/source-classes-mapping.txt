@@ -1,0 +1,8 @@
+com/example/wordsappbyme/databinding/ActivityDetailBinding.java
+ com.example.wordsappbyme.databinding.ActivityDetailBinding
+com/example/wordsappbyme/databinding/ActivityMainBinding.java
+ com.example.wordsappbyme.databinding.ActivityMainBinding
+com/example/wordsappbyme/BuildConfig.java
+ com.example.wordsappbyme.BuildConfig
+com/example/wordsappbyme/databinding/ItemViewBinding.java
+ com.example.wordsappbyme.databinding.ItemViewBinding
