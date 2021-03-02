@@ -1,0 +1,134 @@
+[
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_honeycomb.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/honeycomb.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_gingerbread.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/gingerbread.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-mdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_white_box.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/white_box.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-xxxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_dessert_clicker_round.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker_round.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_ic_launcher_background.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_cupcake.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/cupcake.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-hdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_nougat.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/nougat.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_donut.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/donut.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-xhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-hdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-xxhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_froyo.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/froyo.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_dessert_clicker.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-anydpi-v26/ic_dessert_clicker.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_marshmallow.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/marshmallow.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_ic_launcher_foreground.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-xxxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_bakery_back.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/bakery_back.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_kitkat.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/kitkat.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_jellybean.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/jellybean.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-xhdpi/ic_launcher_round.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_lollipop.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/lollipop.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/layout_activity_main.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/layout/activity_main.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-mdpi_ic_launcher.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-mdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_oreo.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/oreo.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/menu_main_menu.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/menu/main_menu.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/mipmap-xxhdpi/ic_launcher.png"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_eclair.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/eclair.xml"
+    },
+    {
+        "merged": "/Users/user/AndroidStudioProjects/DessertClicker/app/build/intermediates/res/merged/debug/drawable_icecreamsandwich.xml.flat",
+        "source": "/Users/user/AndroidStudioProjects/DessertClicker/app/src/main/res/drawable/icecreamsandwich.xml"
+    }
+]
