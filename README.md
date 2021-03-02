@@ -20,4 +20,8 @@ https://developer.android.com/courses/android-basics-kotlin/course
 ----
 ### Unit3 Part2 Dessert Clicker App
 - Activity LifeCycle 이해하기
+- Preserving activity state( onSaveInstanceState(), onRestoreInstanceState() )
+- Configuration changes 
+  - happens when the state of the device changes so radically that the easiest way for the system to resolve the change is to destroy and rebuild the activity
+
 <img src = "https://user-images.githubusercontent.com/68096732/109491643-2dc98d00-7acd-11eb-8171-f7e6e825f4c6.png" width="400px">
