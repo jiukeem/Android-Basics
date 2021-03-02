@@ -12,7 +12,7 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[Pixel_XL_API_30]" />
+  <component name="ExecutionTargetManager" SELECTED_TARGET="device_and_snapshot_combo_box_target[]" />
   <component name="ExternalProjectsData">
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
@@ -128,10 +128,18 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="744" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1614666810135">
+      <screen x="0" y="-1440" width="2560" height="1440" />
+    </state>
+    <state x="744" y="-1058" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.-1440.2560.1440/0.0.1792.1120@0.-1440.2560.1440" timestamp="1614666810135" />
     <state x="675" y="283" key="#com.intellij.ide.util.MemberChooser" timestamp="1614582801455">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
     <state x="675" y="283" key="#com.intellij.ide.util.MemberChooser/0.0.1792.1120@0.0.1792.1120" timestamp="1614582801455" />
+    <state x="100" y="100" width="1592" height="920" key="AVDManager" timestamp="1614665788894">
+      <screen x="0" y="0" width="1792" height="1120" />
+    </state>
+    <state x="100" y="100" width="1592" height="920" key="AVDManager/0.-1440.2560.1440/0.0.1792.1120@0.0.1792.1120" timestamp="1614665788894" />
     <state x="484" y="322" key="AndroidCreateResourceFileDialog" timestamp="1614593732158">
       <screen x="0" y="0" width="1792" height="1120" />
     </state>
