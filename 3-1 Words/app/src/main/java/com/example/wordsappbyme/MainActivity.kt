@@ -23,10 +23,12 @@ class MainActivity : AppCompatActivity() {
         setContentView(binding.root)
 
         recyclerview = binding.mainRecyclerview
-        // layoutManager 와 adapter 지정
         chooseLayout()
     }
 
+    /**
+     * layoutManager 와 Adapter 지정
+     */
     private fun chooseLayout() {
         if (isLinearLayoutManager) {
             recyclerview.layoutManager = LinearLayoutManager(this)
@@ -36,6 +38,9 @@ class MainActivity : AppCompatActivity() {
         recyclerview.adapter = LetterAdapter()
     }
 
+    /**
+     * isLinearLayoutManager에 따라 아이콘 이미지 지정
+     */
     private fun setIcon(menuItem: MenuItem?) {
         if (menuItem == null)
             return
@@ -70,6 +75,7 @@ class MainActivity : AppCompatActivity() {
      */
     override fun onOptionsItemSelected(item: MenuItem): Boolean {
         // 눌린 아이템이 action_switch_layout, 즉 메뉴아이콘일 때, isLinearLayoutManager 을 바꾸고, 그에 맞춰서 레이아웃매니저를 바꾸고 아이콘을 재설정함.
+        // 내가 호출하는게 아니라 메뉴아이템이 눌릴 때 자동으로 호출됨
         return when (item.itemId) {
             R.id.action_switch_layout -> {
                 isLinearLayoutManager = !isLinearLayoutManager
