@@ -15,6 +15,7 @@ https://developer.android.com/courses/android-basics-kotlin/course
 ### Unit3 Part1 Words App
 - 새로 사용하는 개념: lambdas, higher order functions
 - navigation between multi activities, explicit/ implicit intent 활용해보기
+- menu option 다뤄보기
 <img src = "https://user-images.githubusercontent.com/68096732/109458524-538c6d00-7aa0-11eb-8894-d4d7f2005539.png" width="580px">
 
 ----
