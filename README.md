@@ -36,9 +36,10 @@
 - Fragment 활용해보기
 - navigation graph 활용해보기
 - lifecycle 과 callback methods 들은 액티비티와 유사하나, onCreate() 에서의 작업에 유의해야 한다. 액티비티에서는 onCreate() 에서 inflating layout 과 view binding 을 진행하지만, 프레그먼트에서의 onCreate()는 아직 view가 생성되지 않은 상태이므로 진행할 수 없다. inflating layout은 onCreateView()에서, view binding 은 onViewCreated()에서 해줘야한다.
-- 위와 연결되는 사항으로, view binding 시 nullable 하며, 초기값은 null 이다. onCreateView() 에서 값을 할당해줄거다. (두번째 이미지 참고)
+- 위와 연결되는 사항으로, view binding 시 nullable 하며, 초기값은 null 이다. onCreateView() 에서 값을 할당해줄거다. (세번째 이미지 참고)
 - Jetpack Navigation Components 그래들 설정 페이지: https://developer.android.com/codelabs/basic-android-kotlin-training-fragments-navigation-component?continue=https%3A%2F%2Fdeveloper.android.com%2Fcourses%2Fpathways%2Fandroid-basics-kotlin-unit-3-pathway-2%23codelab-https%3A%2F%2Fdeveloper.android.com%2Fcodelabs%2Fbasic-android-kotlin-training-fragments-navigation-component#6
 <img src = "https://user-images.githubusercontent.com/68096732/109741978-886c0180-7c11-11eb-877a-591870aec674.png" width="400px">
+<img src = "https://user-images.githubusercontent.com/68096732/109912798-20401d00-7cf0-11eb-9441-ba291ca22ce4.png" width="800px">
 <img src = "https://user-images.githubusercontent.com/68096732/109785486-86289800-7c4f-11eb-83b0-dd63b4defaf1.png" width="800px">
 
 ----
